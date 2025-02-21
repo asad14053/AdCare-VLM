@@ -316,7 +316,7 @@ If you find our paper and code useful in your research, please consider giving a
 ```BibTeX
 @article{jabin2025,
   title={AdCare-VLM: Leveraging Large Vision Language Models (LVLMs) to Monitor Long-Term Medication Adherence and Care},
-  author={Jabin, M.A., Jiang, H., Li, Y., Kaggwa, P., Douglass, E., Sekandi, J. N., Liu, T.},
+  author={Jabin, M.A., Jiang, H., Li, Y., Kaggwa, P., Douglass, E., Sekandi, J. N., and Liu, T.},
   journal={Journal of Biomedical Informatics},
   year={2025}
 }
