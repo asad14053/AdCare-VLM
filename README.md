@@ -123,17 +123,17 @@ CUDA_VISIBLE_DEVICES=0 python -m videollava.serve.cli --model-path "checkpoints/
 
 #### Positive Medication Adherence
 <p align="left">
-<img src="assets/positive.png">
+<img src="assets/positive1.png">
 </p>
 
 #### Negative Medication Adherence
 <p align="left">
-<img src="assets/negative.png">
+<img src="assets/negative1.png">
 </p>
 
 #### Ambiguous Medication Adherence
 <p align="left">
-<img src="assets/ambiguous.png">
+<img src="assets/ambiguous1.png">
 </p>
 
 ## 🚀 Model Evaluation
