@@ -35,29 +35,26 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/video-llava-learning-united-visual-1/zeroshot-video-question-answer-on-msvd-qa)](https://paperswithcode.com/sota/zeroshot-video-question-answer-on-msvd-qa?p=video-llava-learning-united-visual-1) <br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/video-llava-learning-united-visual-1/zeroshot-video-question-answer-on-tgif-qa)](https://paperswithcode.com/sota/zeroshot-video-question-answer-on-tgif-qa?p=video-llava-learning-united-visual-1) <br>
 -->
-<!-->
+<!--
 <details open><summary>💡 I also have other video-language projects that may interest you ✨. </summary><p>
 -->
 <!--  may -->
-    
+<!--
 > [**Open-Sora-Plan**](https://github.com/PKU-YuanGroup/Open-Sora-Plan) <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) <br>
-    
 > [**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**](https://arxiv.org/abs/2401.15947) <br>
 > Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Junwu Zhang, Munan Ning, Li Yuan <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/MoE-LLaVA)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/MoE-LLaVA.svg?style=social)](https://github.com/PKU-YuanGroup/MoE-LLaVA)  [![arXiv](https://img.shields.io/badge/Arxiv-2401.15947-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.15947) <br>
-
 > [**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**](https://arxiv.org/abs/2310.01852) <br>
 > Bin Zhu, Bin Lin, Munan Ning, Yang Yan, Jiaxi Cui, HongFa Wang, Yatian Pang, Wenhao Jiang, Junwu Zhang, Zongwei Li, Wancai Zhang, Zhifeng Li, Wei Liu, Li Yuan <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/LanguageBind)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/LanguageBind.svg?style=social)](https://github.com/PKU-YuanGroup/LanguageBind)  [![arXiv](https://img.shields.io/badge/Arxiv-2310.01852-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2310.01852) <br>
+-->
 
 <!--
 > [**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**](https://arxiv.org/abs/2311.08046) <br>
 > Munan Ning, Bin Zhu, Yujia Xie, Bin Lin, Jiaxi Cui, Lu Yuan, Dongdong Chen, Li Yuan <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/Video-Bench)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/Video-Bench.svg?style=social)](https://github.com/PKU-YuanGroup/Video-Bench)  [![arXiv](https://img.shields.io/badge/Arxiv-2311.16103-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.16103) <br>
 -->
-
-</p></details>
 
 
 ## 📰 News
@@ -88,7 +85,6 @@
 
 ## 🤗 Demo
 
-### Gradio Web UI
 <!--
 Highly recommend trying out our web demo by the following command, which incorporates all features currently supported by Video-LLaVA. We also provide [online demo](https://huggingface.co/spaces/LanguageBind/Video-LLaVA) in Huggingface Spaces.
 ```bash
@@ -126,17 +122,32 @@ CUDA_VISIBLE_DEVICES=0 python -m videollava.serve.cli --model-path "checkpoints/
 
 #### Positive Medication Adherence
 <p align="left">
-<img src="assets/positive.jpg">
+<img src="assets/positive.png">
 </p>
 
 #### Negative Medication Adherence
 <p align="left">
-<img src="assets/negative.jpg">
+<img src="assets/negative.png">
 </p>
 
 #### Ambiguous Medication Adherence
 <p align="left">
-<img src="assets/ambiguous.jpg">
+<img src="assets/ambiguous.png">
+</p>
+
+## 🚀 Model Evaluation
+
+<p align="left">
+<img src="assets/evaluation1.png">
+</p>
+
+<p align="left">
+<img src="assets/evaluation2.png">
+</p>
+
+* Model Hyper-parameters
+<p align="left">
+<img src="assets/hyperparameters.png">
 </p>
 
 ## 🛠️ Requirements and Installation
