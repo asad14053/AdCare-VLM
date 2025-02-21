@@ -301,7 +301,7 @@ if __name__ == '__main__':
 ```
 
 ## 👍 Acknowledgement
-* [Video-LLaVA] (https://github.com/PKU-YuanGroup/Video-LLaVA) The codebase we built upon and it is an efficient large language and vision assistant.
+* [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) The codebase we built upon and it is an efficient large language and vision assistant.
 * [LLaVA](https://github.com/haotian-liu/LLaVA) The codebase we built upon and it is an efficient large language and vision assistant.
 * [Chat-UniVi](https://github.com/PKU-YuanGroup/Chat-UniVi) Great job contributing the evaluation code and dataset.
 
