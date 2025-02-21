@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "video": "medication_1.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nWhat are the main activities that take place in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "This video shows, a man wearing a shirt, seated in his living room and speaking directly to the camera. His clothing hangs on a wall-mounted hanger nearby. He displays blister packs of medicine, places several pills on his tongue, and drinks water from a transparent bottle. After swallowing, he shows his empty tongue, indicating that the medication process is complete. This could be an example of positive medication practices!"
+      }
+    ]
+  }
+]
