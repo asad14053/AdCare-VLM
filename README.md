@@ -118,7 +118,7 @@ CUDA_VISIBLE_DEVICES=0 python -m videollava.serve.cli --model-path "checkpoints/
 
 ## 🚀 Main Results
 
-### Medication Video Understanding
+### Medication Adherence Video Understanding
 
 #### Positive Medication Adherence
 <p align="left">
