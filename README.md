@@ -118,7 +118,7 @@ CUDA_VISIBLE_DEVICES=0 python -m videollava.serve.cli --model-path "checkpoints/
 
 ## 🚀 Main Results
 
-### Medication Video understanding
+### Medication Video Understanding
 
 #### Positive Medication Adherence
 <p align="left">
@@ -137,12 +137,19 @@ CUDA_VISIBLE_DEVICES=0 python -m videollava.serve.cli --model-path "checkpoints/
 
 ## 🚀 Model Evaluation
 
+* Comparison with Chat-UniVi
 <p align="left">
 <img src="assets/evaluation1.png">
 </p>
 
+* Model Capabilities Comparison
 <p align="left">
 <img src="assets/evaluation2.png">
+</p>
+
+* Zero-shot Inference Evaluation
+<p align="left">
+<img src="assets/zero-shot.png">
 </p>
 
 * Model Hyper-parameters
