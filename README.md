@@ -119,7 +119,7 @@ CUDA_VISIBLE_DEVICES=0 python -m videollava.serve.cli --model-path "checkpoints/
 ## 🚀 Main Results
 
 #### Medication Adherence Video Understanding
-* Privacy Considerations: To respect the privacy of our human subjects, we have applied a **70% blurry blue mask** to each of the frames demonstrated below. However, please note that the **model training/ fine-tuning was conducted using the original, unmasked video frames**.
+* Privacy Considerations: To respect the privacy of our human subjects, we have applied a **70% blurry mask** to each of the frames demonstrated below. However, please note that the **model training/ fine-tuning was conducted using the original, unmasked video frames**.
 
 #### Positive Medication Adherence
 <p align="left">
