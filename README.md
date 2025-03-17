@@ -83,6 +83,9 @@
 
 <img src="assets/main.png"/>
 
+### 💡 Alignment before projection
+<img src="assets/Pre-alignment.png"/>
+
 ## 🤗 Demo
 
 <!--
